@@ -1,0 +1,25 @@
+# Build and Executable Artifacts
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Build / Distribution directories
+.dist/
+build/
+bin/
+out/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
